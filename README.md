@@ -35,7 +35,7 @@ Este projeto é uma aplicação Spring Boot que explora a implementação de pad
 
 ## Configuração do Ambiente
 
-1. **Clone o Repositório**
+1. **Navegue até o Diretório do Projeto**
 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   cd padroesprojeto
